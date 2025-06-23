@@ -14,7 +14,7 @@ Welcome! This repository contains my professional resume and a brief overview of
 - Market analysis and forecasting
 - Strategic advisory for Web3 startups
 
-📄 [View my resume here](./CV_VladislavBelotserkovskii.pdf)
+📄 [View my resume here](CV%20VladislavBelotserkovskii.pdf)
 
 🌐 Contact: belocerkovskybc@gmail.com  
 🔗 Telegram: [@BelocerkovskyBC](https://t.me/BelocerkovskyBC)  
