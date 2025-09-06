@@ -17,5 +17,5 @@ Welcome! This repository contains my professional resume and a brief overview of
 📄 [View my resume here](CV%20VladislavBelotserkovskii.pdf)
 
 🌐 Contact: belocerkovskybc@gmail.com  
-🔗 Telegram: [@BelocerkovskyBC](https://t.me/BelocerkovskyBC)  
+🔗 Telegram: [@vl_btc](https://t.me/vl_btc)  
 ---
