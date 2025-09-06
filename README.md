@@ -14,7 +14,7 @@ Welcome! This repository contains my professional resume and a brief overview of
 - Market analysis and forecasting
 - Strategic advisory for Web3 startups
 
-📄 [View my resume here]([CV%20VladislavBelotserkovskii.pdf](https://github.com/vlbtc/readme.md/raw/main/CV%20VladislavBelotserkovskii.pdf?raw=true)
+📄 [View my resume here] (CV%20VladislavBelotserkovskii.pdf)
 
 🌐 Contact: belocerkovskybc@gmail.com  
 🔗 Telegram: [@vl_btc](https://t.me/vl_btc)  
